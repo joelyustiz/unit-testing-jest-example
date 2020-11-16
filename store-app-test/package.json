@@ -68,6 +68,7 @@
   },
   "homepage": "",
   "jest": {
+    "verbose": true,
     "setupFilesAfterEnv": [
       "<rootDir>/src/__test__/setupTest.js"
     ],
